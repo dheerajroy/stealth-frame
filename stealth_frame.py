@@ -28,10 +28,3 @@ class StealthFrame:
         with open(path, 'rb') as f:
             message_data = str(bytearray(f.read())).rpartition('\\')[-1][3: -2]
             return message_data
-
-
-if __name__ == '__main__':
-    stframe = StealthFrame()
-    stframe.embed_message('img.png', 'Hello world')
-    stframe.download_image('secretimg.png')
-    print(stframe.retrieve_message('secretimg.png'))
