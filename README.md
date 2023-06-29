@@ -5,13 +5,16 @@ Stealth Frame is a simple steganography program written in Python. It allows you
 ## Requirements
 
 1. To run this program, you need to have Python version 3.10 or greater installed on your system.
+
 2. Media file(s) to perform steganography
 
 ## Installation
 
 1. Clone or download the Stealth Frame repository from [GitHub](https://github.com/dheerajroy/stealth-frame).
 
-2. Open a terminal or command prompt and navigate to the program's directory.
+2. Unzip if required
+
+3. Open a terminal or command prompt and navigate to the program's directory.
 
 ## Usage
 
