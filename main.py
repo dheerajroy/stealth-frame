@@ -7,7 +7,7 @@ stframe = StealthFrame()
 def main():
     """CLI to embed and retrieve information within media files (simple steganography)"""
     while True:
-        inp = int(input('Stealth Frame - Embed and retrieve information within media files (simple steganography)\n(1). Embed message\n(2). Retrive message\n(0). Exit\n>>> '))
+        inp = int(input('Stealth Frame - Embed and retrieve information within media files (simple steganography)\n(1). Embed message\n(2). Retrive message\n(0). Exit\nOption number > '))
 
         match inp:
             case 1:

@@ -29,7 +29,7 @@ Stealth Frame - Embed and retrieve information within media files (simple stegan
 (1). Embed message
 (2). Retrieve message
 (0). Exit
->>> 
+Option number > 
 ```
 
 3. Choose the appropriate option:
